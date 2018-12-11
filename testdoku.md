@@ -1,6 +1,6 @@
-#Git
+# Git
 
-##Datei anlegen
+## Datei anlegen
     echo "# testrepo2" >> README.md
 
 ## Datei dem repo hinzufügen
